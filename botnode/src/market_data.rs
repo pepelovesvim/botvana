@@ -7,6 +7,7 @@ pub mod error;
 pub mod binance;
 pub mod ftx;
 pub mod serum;
+pub mod deribit
 
 pub use engine::*;
 
